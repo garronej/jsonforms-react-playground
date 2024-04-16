@@ -8,5 +8,8 @@ nvm install 20
 
 npm install -g yarn
 
+cd /home/onyxia/work/
+ls -la
+
 cd /home/onyxia/work/jsonforms-react-playground
 npm ci
